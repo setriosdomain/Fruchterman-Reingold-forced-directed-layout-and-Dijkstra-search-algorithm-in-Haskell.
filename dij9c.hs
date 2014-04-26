@@ -1,8 +1,7 @@
 {-# LANGUAGE MultiParamTypeClasses, FunctionalDependencies, FlexibleInstances, FlexibleContexts #-}
 {-
         Developed by: Nicolas Larrea
-        email: clarreap@vub.ac.be
-        First Assignment: functional programming.
+        functional programming.
 -}
 import Data.List (find,delete)
 import Data.Char (isSpace)
